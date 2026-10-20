@@ -20,10 +20,10 @@ Client work lives in private repositories. Public reference projects are on the 
 
 ### Stack
 
-**Voice AI:** Retell AI, ElevenLabs, prompt engineering, tool calling, LLM evaluation
-**Backend:** Node.js, TypeScript, Python, Java, Spring Boot, REST APIs, webhooks, SQL
-**Cloud and ops:** AWS, Vercel, Linux, Git
-**Integrations:** GoHighLevel, Google Apps Script, Slack
+- **Voice AI:** Retell AI, ElevenLabs, prompt engineering, tool calling, LLM evaluation
+- **Backend:** Node.js, TypeScript, Python, Java, Spring Boot, REST APIs, webhooks, SQL
+- **Cloud and ops:** AWS, Vercel, Linux, Git
+- **Integrations:** GoHighLevel, Google Apps Script, Slack
 
 Before Scaile AI, I spent two years at Accenture building Java and Spring Boot microservices for FedEx.
 
